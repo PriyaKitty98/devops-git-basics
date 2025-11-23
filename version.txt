@@ -1,0 +1,19 @@
+v1.0.0
+
+
+
+* Stage and commit both files.
+
+* Connect your local repository to the remote GitHub repository.
+
+* Push your commit to GitHub (to the main branch).
+
+* Now update version.txt to:
+
+
+
+v1.0.1
+
+
+
+* Commit the change and push it to GitHub.
